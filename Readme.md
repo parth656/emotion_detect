@@ -1,8 +1,4 @@
-Sure thing! Here's a complete, stylish, and engaging `README.md` file tailored for your Emotion Detection project — including badges, animated demo suggestions, future scope, and setup instructions.
 
----
-
-```markdown
 # 🎭 Real-Time Emotion Detection System using OpenCV & PyQt5
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue?style=for-the-badge&logo=python)

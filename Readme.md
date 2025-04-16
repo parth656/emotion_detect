@@ -116,12 +116,3 @@ Pull requests and stars are always welcome! ⭐
 
 ```
 
----
-
-Let me know if you'd like me to:
-
-- Auto-generate the GIF demo for you
-- Help create animated SVG/Lottie components
-- Package this into an `.exe` or `.app`
-
-Want me to drop this into a real `README.md` file for your repo?

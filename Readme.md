@@ -111,7 +111,5 @@ Pull requests and stars are always welcome! ⭐
 🐦 [Twitter](https://twitter.com/yourhandle)
 
 ---
-
 ### ✨ If you found this helpful or cool, give it a ⭐ and share it!
-
 ```

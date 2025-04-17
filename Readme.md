@@ -26,9 +26,7 @@
 
 > Want to see it in action?
 
-<p align="center">
-  <img src="https://media.giphy.com/media/l0HUqsz2jdQYElRm0/giphy.gif" width="600" alt="Demo GIF">
-</p>
+
 
 ---
 
@@ -47,18 +45,18 @@ pip install opencv-python PyQt5 numpy
 ```bash
 git clone https://github.com/your-username/emotion-detection-gui.git
 cd emotion-detection-gui
-python app.py
+python emotion_detct_final.py
 ```
 
 ---
-
+<!-- 
 ## 🖼 UI Overview
 
 | Main Window | Real-Time Emotion | Smart Suggestion |
 |-------------|-------------------|------------------|
 | ![UI](https://via.placeholder.com/250x150?text=Main+UI) | ![Detection](https://via.placeholder.com/250x150?text=Emotion+Detection) | ![Advice](https://via.placeholder.com/250x150?text=Wellness+Tip) |
 
----
+--- -->
 
 ## 📂 Project Structure
 
@@ -106,22 +104,10 @@ Pull requests and stars are always welcome! ⭐
 ## 👤 Author
 
 **Parth Bijpuriya**  
-💼 [Portfolio](https://parthbijpuriya.dev)  
-📬 [Email](mailto:your.email@example.com)  
-🐦 [Twitter](https://twitter.com/yourhandle)
+💼 [Portfolio](https://superb-gingersnap-2a78b0.netlify.app/)  
+📬 [Email](mailto:parthbijpuriya416.com)  
+<!-- 🐦 [Twitter](https://twitter.com/yourhandle) -->
 
 ---
 
 ### ✨ If you found this helpful or cool, give it a ⭐ and share it!
-
-```
-
----
-
-Let me know if you'd like me to:
-
-- Auto-generate the GIF demo for you
-- Help create animated SVG/Lottie components
-- Package this into an `.exe` or `.app`
-
-Want me to drop this into a real `README.md` file for your repo?
